@@ -87,3 +87,8 @@ The neural network model using `tensorflow`'s Keras API was used. We set up inpu
 We print a summary of the model, including the layers, their output shapes, and the number of trainable parameters in the model. It provides a concise overview of the model architecture. We then compile and fit the model to get an accuracy of 0.83.
 
 In summary, our best performance was around 86% from the `CatBoost` model.
+
+## Conclusion
+The Titanic disaster not only teaches us about the past but also serves as a crucial lesson in the importance of fairness and equality in safety and emergency protocols. This understanding is essential for devising strategies that enhance survival outcomes for everyone in future crises.
+
+![Titanic_end](https://github.com/zhengn95/Project4_Team6/blob/main/Images/Titanic_end.png)
